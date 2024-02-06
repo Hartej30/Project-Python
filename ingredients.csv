@@ -1,0 +1,10 @@
+name,quantity,unit,reorder_level
+Pepperoni,10.0,oz,5
+Ham,15.0,oz,7
+Bacon,12.0,oz,6
+Mushrooms,8.0,cups,4
+Onion,5.0,units,3
+Black Olives,6.0,cups,4
+Tomato Slices,7.0,units,5
+Extra Cheese,20.0,oz,8
+Pineapple,9.0,cups,6
